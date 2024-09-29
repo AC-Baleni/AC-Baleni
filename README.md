@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AC-Baleni
 - 👀 I’m interested in Programming && Computer Science
 - 🌱 I’m currently learning Java in Computer Science
-- 💞️ I’m looking to collaborate on Java && Android Projects
+- 💞️ I’m a Java Software developer.
 - 📫 How to reach me Email: baleniicaviwe@gmail.com
 
 <!---
