@@ -1,0 +1,30 @@
+Entity: Milimeters
+Entity type: Class
+Fields: int milimeter
+Methods: getMiliMeter(), setMiliMeter(int miliMeter)
+
+Entity:  Centimeters
+Entity type: Class
+Fields: int  centimeter
+Methods: getCentimeters(), setCentiMeter(int centiMeter)
+
+Entity: ConvertManager
+Entity type: Class
+Fields: Centimeter c, Milimeter m
+Methods: convertCmToMm(int Cm), convertMmToCm(int Mm)
+Relationship:
+
+Entity: ConversionInterface
+Entity type: Interface
+Methods: convertCmToMm(int Cm), convertMmToCm(int Mm)
+
+Relationships:
+* ConvertManager implements ConversionInterface
+* Centimeters used by ConvertManager
+* Milimeters used by ConvertManager
+
+Class- 
+Manager- 
+Interface- 
+Relationship
+
