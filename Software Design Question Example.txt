@@ -1,4 +1,4 @@
-Entity: Milimeters
+Entity: Milimeter
 Entity type: Class
 Fields: int milimeter
 Methods: getMiliMeter(), setMiliMeter(int miliMeter)
