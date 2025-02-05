@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @AC-Baleni
-- 👀 I’m interested in Programming && Computer Science
-- 🌱 I’m currently learning Java in Computer Science
-- 💞️ I’m a Java Software developer.
-- 📫 How to reach me Email: baleniicaviwe@gmail.com
+👋 Hi, I’m Aviwe Baleni
+I’m a passionate Java Software Developer with a keen interest in Programming and Computer Science. 🚀
 
-<!---
-AC-Baleni/AC-Baleni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 About Me:
+I specialize in Java and am currently diving deeper into the world of Software Development.
+I'm constantly learning and exploring new tech trends and frameworks to stay ahead in the rapidly changing software landscape.
+I thrive on solving complex problems and contributing to impactful projects.
+🌱 Currently Learning:
+Mastering Java to build efficient, scalable software applications.
+💬 How to Reach Me:
+📧 Email: baleniicaviwe@gmail.com
+Feel free to reach out for collaborations, projects, or just to connect!
